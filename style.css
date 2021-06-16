@@ -46,3 +46,10 @@ color: white;
     border-top: none;
     background-color: white;
 }
+#contact{
+    height: 300px;
+}
+::placeholder{
+    color: lightsalmon;
+    opacity: 1;
+}
